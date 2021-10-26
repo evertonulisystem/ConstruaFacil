@@ -10,7 +10,7 @@ Visite o meu canal voltado a tecnologia da Informação: [Gotas de Tecnologia](h
 
 ![Teste](https://github.com/evertonulisystem/assets/blob/main/Tela03.PNG) 
 
-# Features implementadas 
+# Bibliotecas 
 * RestAssured 4.3.3
 * TestNG 7.4.0
 
